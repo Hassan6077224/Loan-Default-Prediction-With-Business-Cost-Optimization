@@ -87,9 +87,3 @@ In lending, different types of errors have different financial impacts:
 
 ##  Results (CatBoost Model)
 - **Accuracy:** 92%   
-
----
-
-##  Live App
-You can try the deployed app here:  
-https://loan-default-prediction-with-business-cost-optimization-mgaufu.streamlit.app/
